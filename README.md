@@ -25,9 +25,11 @@ Feel free to choose if you are going to use the Rest API or the GraphQL API, and
 
 # Solution
 - Use `reactjs`, you can start with a simple `create-react-app` structure and work from there;
+- Use some state managing solution;
 - Use ES6+ features and write down in the readme why you used and for what, for at least 2 of them;
 - Write unit tests and any other test you may find helpful or important to have;
-- Be creative.
+- Keep performance and corner cases in mind;
+- Be creative and show us what you got.
 
 # Delivery
 - **Don't** fork this project. Create a new repository in your account and send us the URL;
