@@ -24,7 +24,7 @@ Feel free to choose if you are going to use the Rest API or the GraphQL API, and
 - Server side rendering.
 
 # Solution
-- Use `reactjs`, you can start with a simple `create-react-app` structure and work from there;
+- Use whatever you understand that solves the problem. You also can use JS Libs or Frameworks like ReactJS, AngularJS, VueJS or others;
 - Use some state managing solution;
 - Use ES6+ features and write down in the readme why you used and for what, for at least 2 of them;
 - Write unit tests and any other test you may find helpful or important to have;
